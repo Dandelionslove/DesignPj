@@ -1,9 +1,9 @@
 <template>
   <div id="app">
     <!--<img src="./assets/logo.png">-->
-    <!--<Homepage></Homepage>-->
+    <Homepage></Homepage>
     <!--<component :is="componentName" v-on:getChangeInfo="getChangeInfo"></component>-->
-    <component :is="componentName" ></component>
+    <!--<component :is="componentName" ></component>-->
     <hr>
     <div id="bottom">
       <div id="email">
