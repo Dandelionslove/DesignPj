@@ -7,5 +7,6 @@ cd 项目文件夹目录
 npm run dev
 ```
 
+![Screen Shot 2019-12-28 at 14.37.43](/Users/shuangliz/Desktop/Screen Shot 2019-12-28 at 14.37.43.png)
 
-
+在浏览器中输入URL：http://localhost:8080即可访问
